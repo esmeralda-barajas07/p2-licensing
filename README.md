@@ -23,7 +23,8 @@ P2 license in Entra ID.<br />
 
 <p>
 <img width="1404" height="709" alt="image"
-src="https://github.com/user-attachments/assets/b56dd5be-9d99-455c-971b-87b868587458" />
+<img width="1920" height="864" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/0f1d16e6-6502-43f0-b25d-ef333d8e0815" />
+
 
   
 </p>
@@ -34,7 +35,8 @@ Assigned P2 license to user Chris Walker.
 
 <p>
 <img width="1441" height="735" alt="image"
-src="https://github.com/user-attachments/assets/39cc0299-8264-4329-abe8-4323398beba4" />
+<img width="1920" height="848" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/49c8548e-af20-462f-8e00-c33e7171f0ce" />
+
 
   
 </p>
